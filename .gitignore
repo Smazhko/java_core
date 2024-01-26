@@ -5,7 +5,7 @@ target/
 **/src/test/**/target/
 *.xml
 .gitignore
-_МАТЕРИАЛЫ документы/*
+/_МАТЕРИАЛЫ документы/*
 
 ### IntelliJ IDEA ###
 .idea/*
