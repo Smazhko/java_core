@@ -13,7 +13,7 @@ public class TicTacToe extends JFrame {
     final int WINDOW_SIZE = 330;
     final int WINDOW_DX = 7;
     final int WINDOW_DY = 55;
-    final int FIELD_SIZE = 5;
+    final int FIELD_SIZE = 3;
     final int CELL_SIZE = WINDOW_SIZE / FIELD_SIZE;
     final String BTN_INIT = "New game";
     final String BTN_EXIT = "Exit";

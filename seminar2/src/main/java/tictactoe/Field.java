@@ -14,10 +14,6 @@ public class Field {
     private final String MSG_HUMAN_WON = "YOU WON!";
     private final String MSG_AI_WON = "AI WON!";
 
-    // переменные для подсчёта очков
-    private final Map<Character, Integer[]> rowWinPoints = null;
-    private final int[][] diagonalWinPoints = new int[2][3];
-
 
     private char[][] map;
     private String gameOverMsg;
