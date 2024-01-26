@@ -5,7 +5,8 @@ target/
 **/src/test/**/target/
 *.xml
 .gitignore
-/_МАТЕРИАЛЫ документы/*
+/_МАТЕРИАЛЫ документы/
+/.idea/
 
 ### IntelliJ IDEA ###
 .idea/*
@@ -37,3 +38,4 @@ build/
 
 ### Mac OS ###
 .DS_Store
+
