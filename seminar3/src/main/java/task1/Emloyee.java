@@ -14,7 +14,7 @@ public class Emloyee {
     private Integer pay;
     private Integer age;
 
-    public Worker(String name, String post, String phonenumber, Integer pay, Integer age) {
+    public Emloyee(String name, String post, String phonenumber, Integer pay, Integer age) {
         this.name = name;
         this.post = post;
         this.phonenumber = phonenumber;
