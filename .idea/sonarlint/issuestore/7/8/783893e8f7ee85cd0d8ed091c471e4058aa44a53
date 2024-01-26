@@ -1,0 +1,33 @@
+
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°­¡Âüÿÿÿÿ8ÿëˆ³Ô1
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°­¡Âüÿÿÿÿ8ÿëˆ³Ô1
+e
+java:S3973"HUse indentation to denote the code conditionally executed by this "for".(½àÅ©8ìˆ³Ô1
+q	java:S116"URename this field "FIELD_SIZE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(äîÔ8Çñˆ³Ô1
+p	java:S116	"TRename this field "CELL_SIZE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·©Úì8Çñˆ³Ô1
+u	java:S116
+"TRename this field "HUMAN_DOT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…şı‚üÿÿÿÿ8Çñˆ³Ô1
+m	java:S116"QRename this field "AI_DOT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¾Ã´Â8Çñˆ³Ô1
+u	java:S116"TRename this field "EMPTY_DOT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™ÆÙüÿÿÿÿ8Çñˆ³Ô1
+t	java:S116"SRename this field "MSG_DRAW" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›ŞÕ«ùÿÿÿÿ8Çñˆ³Ô1
+t	java:S116"XRename this field "MSG_HUMAN_WON" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Í»ÙŠ8Çñˆ³Ô1
+q	java:S116"URename this field "MSG_AI_WON" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•ñ‚Ş8Çñˆ³Ô1
+C
+java:S1170
+"!Make this final field static too.(…şı‚üÿÿÿÿ8Çñˆ³Ô1
+>
+java:S1170"!Make this final field static too.(¾Ã´Â8Çñˆ³Ô1
+C
+java:S1170"!Make this final field static too.(™ÆÙüÿÿÿÿ8Çñˆ³Ô1
+C
+java:S1170"!Make this final field static too.(›ŞÕ«ùÿÿÿÿ8Çñˆ³Ô1
+>
+java:S1170"!Make this final field static too.(Í»ÙŠ8Çñˆ³Ô1
+>
+java:S1170"!Make this final field static too.(•ñ‚Ş8Çñˆ³Ô1
+c
+java:S1126J"AReplace this if-then-else statement by a single return statement.(ˆïĞ‹ûÿÿÿÿ8×ñˆ³Ô1
+^
+java:S1126T"AReplace this if-then-else statement by a single return statement.(ç¯ÑÏ8Øñˆ³Ô1
+L
+java:S1128"*Remove this unused import 'java.util.Map'.(¼è½Òşÿÿÿÿ8¬¯³Ô1

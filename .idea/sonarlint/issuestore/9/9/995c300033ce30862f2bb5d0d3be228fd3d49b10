@@ -1,0 +1,28 @@
+
+z	java:S135"YReduce the total number of break and continue statements in this loop to use at most one.(˜ïˆžÿÿÿÿÿ8ÿþ£²Ô1
+]	java:S125"<This block of commented-out lines of code should be removed.(Õ©§µýÿÿÿÿ8Î‡¤²Ô1
+Z	java:S106-"9Replace this use of System.out or System.err by a logger.(Ö…°òùÿÿÿÿ8Ô‡¤²Ô1
+U	java:S106/"9Replace this use of System.out or System.err by a logger.(á–¿®8Ô‡¤²Ô1
+Z	java:S1061"9Replace this use of System.out or System.err by a logger.(ªÓ¼áþÿÿÿÿ8Ô‡¤²Ô1
+Z	java:S1064"9Replace this use of System.out or System.err by a logger.(€Ê†ãýÿÿÿÿ8Õ‡¤²Ô1
+Z	java:S1067"9Replace this use of System.out or System.err by a logger.(øø›ºúÿÿÿÿ8Õ‡¤²Ô1
+Z	java:S1069"9Replace this use of System.out or System.err by a logger.(ªÓ¼áþÿÿÿÿ8Õ‡¤²Ô1
+Z	java:S106="9Replace this use of System.out or System.err by a logger.(¹¦Ô„ÿÿÿÿÿ8Õ‡¤²Ô1
+Z	java:S106?"9Replace this use of System.out or System.err by a logger.(ªÓ¼áþÿÿÿÿ8Õ‡¤²Ô1
+A
+java:S1659C"Declare "y" on a separate line.(¡Ê²‘þÿÿÿÿ8Ö‡¤²Ô1
+Z	java:S106E"9Replace this use of System.out or System.err by a logger.(÷Â“ðÿÿÿÿÿ8Ö‡¤²Ô1
+A
+java:S1659V"Declare "y" on a separate line.(¡Ê²‘þÿÿÿÿ8Ø‡¤²Ô1
+Z	java:S106`"9Replace this use of System.out or System.err by a logger.(øºÑûúÿÿÿÿ8Ù‡¤²Ô1
+U	java:S106d"9Replace this use of System.out or System.err by a logger.(ÖáöÐ8Ù‡¤²Ô1
+o
+java:S3776t"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(ôÜû„8Ú‡¤²Ô1
+_
+java:S1126‚"AReplace this if-then-else statement by a single return statement.(ê·ŠÄ8Ú‡¤²Ô1
+p
+java:S3776‡"RRefactor this method to reduce its Cognitive Complexity from 30 to the 15 allowed.(ƒµšº8Ú‡¤²Ô1
+K
+java:S1144t".Remove this unused private "checkWin1" method.(ôÜû„8Ü‡¤²Ô1
+L
+java:S1144‡".Remove this unused private "checkWin2" method.(ƒµšº8Ü‡¤²Ô1
