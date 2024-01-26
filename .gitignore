@@ -5,12 +5,10 @@ target/
 **/src/test/**/target/
 *.xml
 .gitignore
+_МАТЕРИАЛЫ документы/
 
 ### IntelliJ IDEA ###
-.idea/modules.xml
-.idea/jarRepositories.xml
-.idea/compiler.xml
-.idea/libraries/
+.idea/*
 *.iws
 *.iml
 *.ipr
