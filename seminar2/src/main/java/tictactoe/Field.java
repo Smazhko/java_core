@@ -1,6 +1,7 @@
 package tictactoe;
 
 import java.awt.*;
+import java.util.Map;
 
 public class Field {
 
@@ -14,8 +15,7 @@ public class Field {
     private final String MSG_AI_WON = "AI WON!";
 
     // переменные для подсчёта очков
-    private final int[][] rowWinPoints = new int[2][3];
-    private final int[][] coolumnsWinPoints = new int[2][3];
+    private final Map<Character, Integer[]> rowWinPoints = null;
     private final int[][] diagonalWinPoints = new int[2][3];
 
 
@@ -50,12 +50,7 @@ public class Field {
 
     void setDot(int x, int y, char dot) { // set dot and check fill and win
         map[x][y] = dot;
-        switch (dot){
-            case HUMAN_DOT:
-                rowWinPoints[0][x-1] +=1;
 
-
-        }
         if (checkWin(HUMAN_DOT))
             gameOverMsg = MSG_HUMAN_WON;
         else if (checkWin(AI_DOT))
@@ -73,7 +68,7 @@ public class Field {
     }
 
     boolean checkWin(char dot) {
-        /*
+
         // checking horizontals / verticals
         for (int i = 0; i < FIELD_SIZE; i++)
             if ((map[i][0] == dot && map[i][1] == dot && map[i][2] == dot) ||
@@ -84,13 +79,6 @@ public class Field {
                 (map[2][0] == dot && map[1][1] == dot && map[0][2] == dot))
             return true;
         return false;
-
-         */
-
-        switch (dot){
-            case HUMAN_DOT: rowWinPointsAI
-
-        }
 
     }
 
