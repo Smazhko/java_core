@@ -29,17 +29,17 @@ public class LogPassReader {
         String confirmPasswd = userdata[2];
         try{
             if (login.length() > 20)
-                throw new WrongLoginException("Длина логина ("+ login + ") превышает 20 символов. Попробуйте ещё раз.");
+                throw new WrongLogException("Длина логина ("+ login + ") превышает 20 символов. Попробуйте ещё раз.");
             if (passwd.length() > 20)
-                throw new WrongPasswordException("Длина пароля ("
+                throw new WrongPassException("Длина пароля ("
                         + passwd.substring(0,2) + "###"
                         + passwd.substring(passwd.length()-2, passwd.length())
                         + ") превышает 20 символов. Попробуйте ещё раз.");
             if (!passwd.equals(confirmPasswd))
-                throw new WrongPasswordException("Подтверждение пароля не совпадает с паролем.");
+                throw new WrongPassException("Подтверждение пароля не совпадает с паролем.");
             savinglog(String.format("Логин (%s) и пароль (%s) в порядке", login, passwd));
 
-        } catch(WrongLoginException | WrongPasswordException e){
+        } catch(WrongLogException | WrongPassException e){
                 savinglog(e.getMessage());
                 return false;
         }
