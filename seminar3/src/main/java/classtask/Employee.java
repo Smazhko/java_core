@@ -1,9 +1,4 @@
-package classtask;/*
-Задача:    Создать класс ”Сотрудник” с полями: ФИО, должность, телефон, зарплата, возраст;
-Задача:   Написать функцию выводящую всю доступную информацию об объекте
-*/
-
-
+package classtask;
 
 public class Employee implements Comparable<Employee>{
     private String name;
